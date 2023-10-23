@@ -4,5 +4,5 @@
 
 
 ## build instructions
-- download the [latest update] from ox_inventory (https://github.com/overextended/ox_inventory/releases/download/v2.35.1/ox_inventory.zip) 
+- download the [latest update] from ox_inventory (https://github.com/overextended/ox_inventory) 
 - replace the build folder in `ox_inventory/web/`
